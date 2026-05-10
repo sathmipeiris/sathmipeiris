@@ -40,7 +40,7 @@ I'm a 4th-year **Computer Engineering** undergraduate with a minor in **Data Man
 
 ### 🛠️ Languages & Tools
 
-<p align="left">
+<div align="left">
   <a href="https://isocpp.org/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
   </a>
@@ -83,7 +83,7 @@ I'm a 4th-year **Computer Engineering** undergraduate with a minor in **Data Man
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
   </a>
-</p>
+</div>
 
 **Specialisations:**
 
