@@ -1,6 +1,9 @@
-<h1 align="center">
+<!-- <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00ADB5&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Sathmi+Peiris!+%F0%9F%8C%B8;Computer+Engineering+Undergrad+%E2%9C%A8;ROS2+%26+Deep+Learning+%7C+Jetson+AGX;ATLAS+Open+Data+%7C+High-Energy+Physics;6+Languages+%26+Counting!+(%E2%97%95%E2%80%BF%E2%97%95)%E2%9C%BF" alt="Typing SVG" />
-</h1>
+</h1> -->
+<div align="center">
+  <img src="./assets/hero-animation.svg" width="800" alt="Sathmi Peiris banner"/>
+</div>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=sathmipeiris&label=Profile+Views&color=00ADB5&style=flat-square" alt="profile views" />
