@@ -1,5 +1,5 @@
 <h1 align="center">Sathmi Vihansa Peiris</h1>
-<h3 align="center">Computer Engineering Graduate | Machine Learning, Computer Vision & Edge AI[cite: 1]</h3>
+<h3 align="center">Computer Engineering Graduate | Edge AI & Full-Stack Systems</h3>
 
 <div align="center">
   <a href="mailto:sathmipeiris@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
@@ -9,32 +9,26 @@
 
 ---
 
-## 💡 About Me
+## 🚀 Quick Intro
 
-I recently completed my B.Sc. Eng. (Hons) in Computer Engineering with a minor in Data Management at the University of Sri Jayewardenepura, achieving a GPA of 3.88/4.0[cite: 1]. I specialize in Machine Learning, Computer Vision, and Edge AI[cite: 1]. I am passionate about deploying optimized deep learning solutions for social good and high-energy physics[cite: 1]. I am currently seeking job roles, internships, and research positions to further explore these fields and data-intensive applications.
+I am a recent **Computer Engineering graduate** (Minor in Data Management) operating at the intersection of deep learning, robotics, and scalable web architectures. 
 
-- 🌍 **Languages:** Native in Sinhala, intermediate in English, and hold an HSK 2 in Chinese and A1 in French[cite: 1].
-- 🎓 **Focus:** Experienced in developing multi-modal tracking frameworks for robotics and designing custom Transformer models for scientific research[cite: 1].
-
----
-
-## 💼 Professional Experience
-
-**Trainee Full-Stack Developer & DevOps** | *Sri Lanka Telecom PLC (Digital Platforms)*[cite: 1]
-- Built core components for the Debt Recovery System (DebtX), a MERN-based platform that automates legal demand generation[cite: 1].
-- Set up the project's CI/CD pipeline using Jenkins and Git, managing containerized deployments on Kubernetes to maintain uptime[cite: 1].
-- Refactored backend APIs (Node.js/Express) to improve response times and integrated a PDF engine using pdf-lib and React[cite: 1].
+*   🎯 **Current Status:** Actively seeking **full-time jobs, internships, and research roles**.
+*   💡 **Core Focus:** Edge AI (ROS 2 / Jetson), Scientific Machine Learning, and Distributed Full-Stack Systems.
+*   🌍 **Languages:** English, Sinhala, Chinese (HSK 2), and French.
 
 ---
 
-## 🔬 Featured Projects
+## 💼 Experience Highlights
 
-### Edge AI & Scientific Machine Learning
+*   **Sri Lanka Telecom PLC:** *DevOps & Software Engineering Trainee.* Built CI/CD pipelines (Jenkins, Kubernetes) and developed enterprise MERN-stack applications.
+*   **Tech Community:** *Organizing Committee.* Facilitated execution for Algo Ace and IEEEXtreme 18.0 coding competitions.
 
-*   **ROS-Based Deep Learning Framework for Elderly Care (Edge AI):** Engineered a distributed robotics framework on ROS 2 Humble running on an NVIDIA Jetson AGX Developer Kit to assist the elderly[cite: 1]. Developed a multi-modal biometric fusion tracking system utilizing YOLOv8-pose for body detection, MTCNN for face detection, and OSNet for feature embedding[cite: 1].
-*   **Deep Learning for High-Energy Collision Classification (Scientific ML):** Classified rare Higgs Boson decay signals amidst vast Standard Model background noise using CERN ATLAS 13 TeV Open Data[cite: 1]. Architected a novel Lorentz Equivariant Physics Transformer (LEPT) and utilized SHAP values to interpret complex model decisions[cite: 1].
+---
 
-### Full-Stack & Data Analytics
+## 🔬 What I Build
+
+### Full-Stack & Distributed Systems
 
 <div align="center">
   <a href="https://github.com/sathmipeiris/smart-gas-distribution-platform">
@@ -47,7 +41,13 @@ I recently completed my B.Sc. Eng. (Hons) in Computer Engineering with a minor i
 
 <br>
 
-*   **Secondhand Car Price Prediction & Analytics:** Web scraped with Selenium to obtain a local dataset and developed a regression model in Python/Scikit-Learn to estimate vehicle market values[cite: 1].
+*   **Smart Gas Platform:** Architected a distributed resource allocation system using a microservices architecture and the MERN stack.
+*   **Car Price App:** Developed a data analytics web app integrating a Next.js frontend with a Flask backend.
+
+### Machine Learning & Edge AI
+
+*   **Elderly Care Robot:** Real-time tracking and pose estimation on an NVIDIA Jetson AGX Orin utilizing ROS 2, YOLOv8, and FastReID.
+*   **High-Energy Physics ML:** Classifying LHC collision data (ATLAS 13 TeV) using Lorentz-Symmetric Transformers, TensorFlow, and SHAP.
 
 ---
 
@@ -58,22 +58,22 @@ I recently completed my B.Sc. Eng. (Hons) in Computer Engineering with a minor i
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 
 **Frameworks & Libraries**
 <br>
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![ROS 2](https://img.shields.io/badge/ROS_2-22314E?style=flat-square&logo=ros&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 
-**DevOps & Tools**
+**Databases & Tools**
 <br>
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 
 ---
 
