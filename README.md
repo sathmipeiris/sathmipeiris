@@ -67,6 +67,7 @@ I am a recent **Computer Engineering graduate** (Minor in Data Management) opera
 <br>
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 
@@ -86,13 +87,10 @@ I am a recent **Computer Engineering graduate** (Minor in Data Management) opera
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 
 ---
-
 ## 📊 GitHub Analytics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sathmipeiris&show_icons=true&theme=default&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sathmipeiris&layout=compact&theme=default&hide_border=false&langs_count=6" alt="Top Languages" width="48%" />
-</div>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sathmipeiris&show_icons=true&theme=default&hide_border=false&include_all_commits=true&count_private=true)](https://github.com/sathmipeiris)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sathmipeiris&layout=compact&theme=default&hide_border=false&langs_count=6)](https://github.com/sathmipeiris)
 
 <br>
 
