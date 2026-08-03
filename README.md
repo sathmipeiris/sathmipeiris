@@ -87,13 +87,3 @@ I am a recent **Computer Engineering graduate** (Minor in Data Management) opera
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 
 ---
-## 📊 GitHub Analytics
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sathmipeiris&show_icons=true&theme=default&hide_border=false&include_all_commits=true&count_private=true)](https://github.com/sathmipeiris)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sathmipeiris&layout=compact&theme=default&hide_border=false&langs_count=6)](https://github.com/sathmipeiris)
-
-<br>
-
-<div align="center">
-  <img src="https://ghchart.rshah.org/00599C/sathmipeiris" alt="Sathmi's Github Contribution Chart" width="100%" />
-</div>
