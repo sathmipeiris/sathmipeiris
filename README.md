@@ -33,8 +33,8 @@ I am a recent **Computer Engineering graduate** (Minor in Data Management) opera
   <a href="https://github.com/sathmipeiris/smart-gas-distribution-platform">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=sathmipeiris&repo=smart-gas-distribution-platform&theme=default&hide_border=false" alt="Smart Gas Distribution" width="48%" />
   </a>
-  <a href="https://github.com/sathmipeiris/car-price-app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sathmipeiris&repo=car-price-app&theme=default&hide_border=false" alt="Car Price App" width="48%" />
+  <a href="https://github.com/sathmipeiris/carlens-lk.git">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sathmipeiris&repo=carlens-lk&theme=default&hide_border=false" alt="Car Price App" width="48%" />
   </a>
 </div>
 
@@ -44,6 +44,17 @@ I am a recent **Computer Engineering graduate** (Minor in Data Management) opera
 *   **Car Price App:** Developed a data analytics web app integrating a Next.js frontend with a Flask backend.
 
 ### Machine Learning & Edge AI
+
+<div align="center">
+  <a href="https://github.com/sathmipeiris/assistive_robot_ws">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sathmipeiris&repo=assistive_robot_ws&theme=default&hide_border=false" alt="GuardianPulse:Elderly Care Robot Framework" width="48%" />
+  </a>
+  <a href="https://github.com/sathmipeiris/Deep-Learning-for-High-Energy-Collision-Event-Classification-A-Study">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sathmipeiris&repo=Deep-Learning-for-High-Energy-Collision-Event-Classification-A-Study&theme=default&hide_border=false" alt="High-Energy Physics ML" width="48%" />
+  </a>
+</div>
+
+<br>
 
 *   **Elderly Care Robot:** Real-time tracking and pose estimation on an NVIDIA Jetson AGX Orin utilizing ROS 2, YOLOv8, and FastReID.
 *   **High-Energy Physics ML:** Classifying LHC collision data (ATLAS 13 TeV) using Lorentz-Symmetric Transformers, TensorFlow, and SHAP.
