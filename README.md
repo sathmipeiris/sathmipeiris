@@ -15,7 +15,6 @@ I am a recent **Computer Engineering graduate** (Minor in Data Management) opera
 
 *   🎯 **Current Status:** Actively seeking **full-time jobs, internships, and research roles**.
 *   💡 **Core Focus:** Edge AI (ROS 2 / Jetson), Scientific Machine Learning, and Distributed Full-Stack Systems.
-*   🌍 **Languages:** English, Sinhala, Chinese (HSK 2), and French.
 
 ---
 
