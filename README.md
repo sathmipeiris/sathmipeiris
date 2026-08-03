@@ -1,177 +1,92 @@
-<!-- <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00ADB5&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Sathmi+Peiris!+%F0%9F%8C%B8;Computer+Engineering+Undergrad+%E2%9C%A8;ROS2+%26+Deep+Learning+%7C+Jetson+AGX;ATLAS+Open+Data+%7C+High-Energy+Physics;6+Languages+%26+Counting!+(%E2%97%95%E2%80%BF%E2%97%95)%E2%9C%BF" alt="Typing SVG" />
-</h1> -->
-<div align="center">
-  <img src="./assets/hero-animation.svg" width="800" alt="Sathmi Peiris banner"/>
-</div>
+<h1 align="center">Sathmi Vihansa Peiris</h1>
+<h3 align="center">Computer Engineering Undergraduate | Autonomous Systems & Applied Deep Learning</h3>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=sathmipeiris&label=Profile+Views&color=00ADB5&style=flat-square" alt="profile views" />
-  &nbsp;
-  <img src="https://img.shields.io/github/followers/sathmipeiris?label=Followers&style=flat-square&color=00ADB5" alt="followers" />
+  <a href="mailto:sathmipeiris@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://linkedin.com/in/hsvpeiris"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/sathmipeiris"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
 </div>
 
+---
+
+## 💡 About Me
+
+I am a fourth-year **Computer Engineering** undergraduate with a minor in **Data Management** at the University of Sri Jayewardenepura. My focus lies at the intersection of robotic perception pipelines, scientific machine learning, and distributed systems. I am currently seeking fully funded research opportunities to further explore autonomous navigation and data-intensive physics applications. 
+
+- 🌍 **Languages:** Fluent in English and Sinhala; actively pursuing advanced professional certification in French.
+- 🎓 **Continuous Learning:** Currently advancing foundational computer science knowledge via CS50 and specialized System-on-a-Chip (SoC) design programs.
+
+---
+
+## 🔬 Research & Core Projects
+
+### Autonomous Elderly Care Perception Pipeline
+*Developing a real-time tracking and pose estimation system for edge deployment.*
+- **Tech Stack:** ROS 2 (Humble), YOLOv8, FastReID, C++, Python
+- **Hardware:** NVIDIA Jetson AGX Orin
+- **Focus:** Architecting edge-optimized deep learning nodes within a ROS 2 middleware environment for autonomous monitoring.
+
+### Deep Learning for High-Energy Collision Classification
+*Applying scientific machine learning to high-energy physics event classification.*
+- **Tech Stack:** TensorFlow, Keras, SHAP, Python
+- **Data:** ATLAS 13 TeV Open Data (LHC)
+- **Focus:** Implementing deep neural networks and Lorentz-Symmetric Contrastive Pre-training to analyze and classify rare signal processes in PHYSLITE datasets.
+
+### Smart Gas Distribution Platform
+*Architecting a distributed software solution for resource allocation.*
+- **Tech Stack:** MERN Stack, Microservices Architecture
+- **Focus:** Developed and integrated backend allocation logic within a broader distributed microservices platform.
+
+---
+
+## 💼 Professional Experience
+
+**DevOps & Software Engineering Trainee** | *Sri Lanka Telecom PLC*
+- Contributed to the Digital Platforms Development Section.
+- Gained practical industry experience in continuous integration, deployment pipelines, and MERN stack development for enterprise-scale platforms.
+
+**Organizing Committee Member** | *Algo Ace & IEEEXtreme 18.0*
+- Facilitated technical execution and event coordination for major competitive programming and coding competitions at the university level. 
+
+---
+
+## 🛠️ Technical Arsenal
+
+**Programming Languages**
 <br>
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 
-<div align="center">
-
-```
-✿ ⋆｡°✩  ロボット工学 × 高エネルギー物理学  ✩°｡⋆ ✿
-      Robotics  ×  High-Energy Physics
-```
-
-</div>
-
----
-
-### 🤖 About Me ⚛️
-
-I'm a 4th-year **Computer Engineering** undergraduate with a minor in **Data Management**, working at the intersection of autonomous navigation, deep learning, and high-energy physics. When I'm not training neural networks or decoding particle collisions, I'm picking up a new language — currently studying my 6th! *(◕‿◕)✿*
-
-- 🔭 Building a **ROS 2-based Deep Learning framework for Elderly Care** on a Jetson Orin AGX
-- ⚛️ Classifying **rare signal processes** using ATLAS Open Data (LHC physics ✨)
-- 🌱 Currently diving deeper into **ROOT (CERN)** and **particle physics ML pipelines**
-- 🤝 Open to collaborate on **ROS 2 robotics frameworks** and **HEP data analysis**
-- 💬 Ask me about **C/C++**, **Python**, or building full-stack apps with the **MERN stack**
-- 🌏 Speaks / studying **6 languages** — Sinhala, English, Japanese, Chinese + more!
-- ⚡ Fun fact: I debug robots AND decode particle collisions before breakfast `(☞ﾟヮﾟ)☞`
-
----
-
-### 🛠️ Languages & Tools
-
-<p align="left">
- <a href="https://isocpp.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/></a>&nbsp;
-  <a href="https://www.python.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>&nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>&nbsp;
-  <a href="https://reactjs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/></a>&nbsp;
-  <a href="https://nextjs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/></a>&nbsp;
-  <a href="https://www.ros.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Ros_logo.svg" alt="ROS" width="40" height="40"/></a>&nbsp;
-  <a href="https://www.tensorflow.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/></a>&nbsp;
- 
-</p>
-
-<p align="left">
-   <a href="https://pytorch.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40"/></a>&nbsp;
-  <a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="40" height="40"/></a>&nbsp;
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></a>&nbsp;
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/></a>&nbsp;
-  <a href="https://www.mathworks.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" alt="MATLAB" width="40" height="40"/></a>&nbsp;
-  <a href="https://ubuntu.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu" width="40" height="40"/></a>&nbsp;
-  <a href="https://git-scm.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/></a>
-</p>
+**Frameworks & Libraries**
 <br>
+![ROS 2](https://img.shields.io/badge/ROS_2-22314E?style=flat-square&logo=ros&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 
-**Specialisations:**
-
-![ROS2](https://img.shields.io/badge/ROS2-22314E?style=flat-square&logo=ros&logoColor=white)
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![CERN ROOT](https://img.shields.io/badge/CERN%20ROOT-003366?style=flat-square&logoColor=white)
-![MERN Stack](https://img.shields.io/badge/MERN%20Stack-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Jetson AGX](https://img.shields.io/badge/Jetson%20Orin%20AGX-76B900?style=flat-square&logo=nvidia&logoColor=white)
-![ATLAS](https://img.shields.io/badge/ATLAS%20Open%20Data-003366?style=flat-square&logoColor=white)
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sathmipeiris&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
-  &nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sathmipeiris&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub Streak" width="48%" />
-</div>
-
+**Databases & Tools**
 <br>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sathmipeiris&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=8" alt="Top Languages" width="40%" />
-</div>
-
----
-
-### 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sathmipeiris&theme=tokyo-night&hide_border=true&border_radius=12&area=true&area_color=00ADB5" alt="Contribution Graph" />
-</div>
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 
 ---
 
-### 🐍 Contribution Snake
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sathmipeiris&show_icons=true&theme=transparent&hide_border=true&title_color=00599C&icon_color=00599C&text_color=333333&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sathmipeiris&layout=compact&theme=transparent&hide_border=true&title_color=00599C&text_color=333333&langs_count=6" alt="Top Languages" width="48%" />
+</div>
 
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/sathmipeiris/sathmipeiris/blob/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/sathmipeiris/sathmipeiris/blob/output/github-contribution-grid-snake.svg" />
-    <img alt="contribution snake animation" src="https://github.com/sathmipeiris/sathmipeiris/blob/output/github-contribution-grid-snake.svg" />
+    <img alt="Contribution Snake" src="https://github.com/sathmipeiris/sathmipeiris/blob/output/github-contribution-grid-snake.svg" width="80%" />
   </picture>
-</div>
-
-> **Note:** To enable the snake animation, create `.github/workflows/snake.yml` in your profile repo — see the workflow file in this repo.
-
----
-
-### 🌸 A Little More About Me
-
-```python
-class SathmiPeiris:
-
-    def __init__(self):
-        self.name        = "Sathmi Peiris"
-        self.university  = "4th Year · Computer Engineering"
-        self.location    = "Sri Lanka 🇱🇰"
-        self.languages   = ["Sinhala", "English", "Japanese", "Chinese", "+ 2 more!"]
-
-    @property
-    def currently_building(self):
-        return [
-            "🤖 ROS 2 Deep Learning framework → Elderly Care (Jetson Orin AGX)",
-            "⚛️  Rare signal classification → ATLAS Open Data (LHC)",
-        ]
-
-    @property
-    def interests(self):
-        return [
-            "Autonomous Navigation", "High-Energy Physics",
-            "Full-Stack Development", "Language Learning",
-        ]
-
-    def say_hi(self):
-        print("Thanks for stopping by! Let's build something amazing ✨")
-        print("(◕‿◕)✿  よろしくお願いします！")
-
-
-me = SathmiPeiris()
-me.say_hi()
-```
-
----
-
-### 📫 Connect With Me
-
-<p align="left">
-  <a href="https://linkedin.com/in/hsvpeiris" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  &nbsp;
-  <a href="mailto:sathmipeiris@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/sathmipeiris" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</p>
-
----
-
-<div align="center">
-
-```
-✿ ありがとう for visiting! ✿
-      ( ´ ∀ ｀)ﾉ~ ♪
-```
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00ADB5&height=80&section=footer&fontSize=16" />
-
 </div>
