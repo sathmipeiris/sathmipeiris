@@ -46,7 +46,7 @@ I am a recent **Computer Engineering graduate** (Minor in Data Management) opera
 ### Machine Learning & Edge AI
 
 <div align="center">
-  <a href="https://github.com/sathmipeiris/assistive_robot_ws">
+  <a href="https://github.com/sathmipeiris/assistive_robot_ws_">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=sathmipeiris&repo=assistive_robot_ws&theme=default&hide_border=false" alt="GuardianPulse:Elderly Care Robot Framework" width="48%" />
   </a>
   <a href="https://github.com/sathmipeiris/Deep-Learning-for-High-Energy-Collision-Event-Classification-A-Study">
